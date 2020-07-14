@@ -20,6 +20,8 @@ public class EntryPoint extends Application {
         stage.setTitle("JavaFX and Maven");
         stage.setScene(scene);
         stage.show();
+        // ALRO COMMENTO DI PROVA
+        // COMMENTO DI PROVA
     }
 
     /**

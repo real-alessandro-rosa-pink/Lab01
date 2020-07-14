@@ -28,6 +28,7 @@ public class Parole {
 	}
 	
 	public void removeParola(String string) {
+		// Rimuove una stringa
 		lista.remove(string);
 	}
 
